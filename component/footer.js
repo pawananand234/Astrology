@@ -12,8 +12,8 @@ class footer extends HTMLElement {
       </span>
       <span class="foot1b">
         <ul>
-          <li><a href="">About Us <span>|</span></a></li>
-          <li><a href="">Contact Us <span>|</span></a></li>
+          <li><a href="scro1">About Us <span>|</span></a></li>
+          <li><a href="" >Contact Us <span>|</span></a></li>
           <li><a href=""> FAQs <span>|</span></a></li>
           <li><a href="">Testimonials <span>|</span></a></li>
           <li><a href="">Cookies Policy <span>|</span></a></li>
